@@ -2,6 +2,7 @@
 Basic gaming program in java
 
 public class game{
+static playchess ch=new playchess();
 
 public sttic void main(String[] args){
 
