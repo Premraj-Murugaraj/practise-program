@@ -2,6 +2,7 @@
 Basic gaming program in java
 
 public class game{
+begin code//
 static gameboard gb = new gameboard("null", "chess board");
 
 public sttic void main(String[] args){
